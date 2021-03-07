@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**nhartland/nhartland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nathan and I'm currently working as a Data Scientist at [Dott](http://ridedott.com), where
+we're working on a number of fascinating mathematical modelling and
+optimisation tasks.
 
-Here are some ideas to get you started:
+Previously I've been:
+ - A consulting Data Scientist at [CTS](https://cts.co/en-gb/),  
+   where I learned a great deal about doing science in the cloud
+   (specifically on [GCP](https://cloud.google.com/)).
+ - A Theoretical Physics Postdoc at [Oxford](https://www2.physics.ox.ac.uk/research/rudolf-peierls-centre-for-theoretical-physics) and [NIKHEF](https://www.nikhef.nl/),  
+   where I worked on various aspects of [QCD](https://en.wikipedia.org/wiki/Quantum_chromodynamics) phenomenology (mainly with the LHC in mind).
+ - A student at [Edinburgh](https://www.ed.ac.uk/) and
+   [Southampton](https://www.southampton.ac.uk/),  
+   where I cut my teeth as a Physicist and began a long-term
+   fascination with
+   [randomness](https://en.wikipedia.org/wiki/Monte_Carlo_method).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in mathematics, (Bayesian) statistics and machine learning.
+(Pseudo)-randomness has plaid a large part in my career (hello MCMC), and
+probably as a consequence of that I like to think about procedural generation in
+[art and games](https://github.com/nhartland/forma).
+
+I quite like to build tools, both for my [hobbies](https://github.com/nhartland/love-build) and [professional life](https://github.com/nhartland/dashengine).  While I
+mostly work in Python these days, I wrote a lot of [HPC
+applications](https://github.com/nhartland/apfelgrid) in C++ in
+the past, and will always have a soft spot for Lua.
