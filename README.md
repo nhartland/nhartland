@@ -12,9 +12,7 @@ Previously I've been:
    where I worked on various aspects of [QCD](https://en.wikipedia.org/wiki/Quantum_chromodynamics) phenomenology (mainly with the LHC in mind).
  - A student at [Edinburgh](https://www.ed.ac.uk/) and
    [Southampton](https://www.southampton.ac.uk/),  
-   where I cut my teeth as a Physicist and began a long-term
-   fascination with
-   [randomness](https://en.wikipedia.org/wiki/Monte_Carlo_method).
+   where I cut my teeth as a Physicist.
 
 I'm interested in mathematics, (Bayesian) statistics and machine learning.
 (Pseudo)-randomness has plaid a large part in my career (hello MCMC), and
