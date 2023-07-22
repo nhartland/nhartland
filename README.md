@@ -17,7 +17,7 @@ Previously I've been:
    [randomness](https://en.wikipedia.org/wiki/Monte_Carlo_method).
 
 I'm interested in mathematics, (Bayesian) statistics and machine learning.
-(Pseudo)-randomness has plaid a large part in my career (hello MCMC), and
+(Pseudo)-randomness has played a large part in my career (hello MCMC), and
 probably as a consequence of that I like to think about procedural generation in
 [art and games](https://github.com/nhartland/forma).
 
