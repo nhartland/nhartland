@@ -1,10 +1,11 @@
 ### Hi there 👋 
 
-I'm Nathan and I'm currently working as a Data Scientist at [Dott](http://ridedott.com), where
-we're working on a number of fascinating mathematical modelling and
-optimisation tasks.
+I'm Nathan and I'm currently working as a Senior Data Scientist at [TMNL]([https://tmnl.nl/en/]), where
+we're developing graph analytics tooling to help combat financial crime.
 
 Previously I've been:
+ - A Senior Data Scientist at [Dott](http://ridedott.com),
+   where I worked on the full stack of transport and mobility modelling, forecasting, optimisation and simulation.
  - A consulting Data Scientist at [CTS](https://cts.co/en-gb/),  
    where I learned a great deal about doing science in the cloud
    (specifically on [GCP](https://cloud.google.com/)).
